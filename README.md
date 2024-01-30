@@ -1,3 +1,19 @@
+# API para proyecto X
+
+Probado con Node 16.
+
+`node server.js`
+
+ó si se van a estar haciendo cambios:
+
+`nodemon server.js`
+
+
+
+
+# 👇🏻 Acá continúa proyecto anterior:
+
+
 # @nodecfdi/sat-ws-descarga-masiva
 
 [![Source Code][badge-source]][source]

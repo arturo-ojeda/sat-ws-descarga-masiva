@@ -8,6 +8,9 @@
 *.sln
 *.sw?
 
+dummy.cer
+dummy.key
+
 # Optional tool caches
 .eslintcache
 .stylelintcache
